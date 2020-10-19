@@ -29,6 +29,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >#### Naive Random Oversampling Results
 >
 >**Balance Accuracy Scores**
+>
 >The balance accuracy score is `0.68`
 >
 >**Image showing the Balance Accuracy Scores for the Cluster Centroids Undersampling Results:**
@@ -42,7 +43,9 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >![NaiveRandom_confusion_matrix](./Resources/NaiveRandom_confusion_matrix.png)
 >
 >**Imbalanced Classification Report**
+>
 The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`0.59`
+>
 >**Image showing the Imbalanced Classification Report for the Naive Random Oversampling Results:**
 >
 >![NaiveRandom_imbalanced_classification](./Resources/NaiveRandom_imbalanced_classification.png)
@@ -51,6 +54,7 @@ The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`
 >
 >**Balance Accuracy Scores**
 >The balance accuracy score is `0.66`
+>
 >**Image showing the Balance Accuracy Scores for the SMOTE Oversampling Results:**
 >
 >![SMOTE_balance_accuracy_score](./Resources/SMOTE_balance_accuracy_score.png)
@@ -62,7 +66,9 @@ The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`
 >![SMOTE_confusion_matrix](./Resources/SMOTE_confusion_matrix.png)
 >
 >**Imbalanced Classification Report**
+>
 >The Precion score is `0.01` and recall scores are highrisk:`0.63` and low risk:`0.69`
+>
 >**Image showing the Imbalanced Classification Report for the SMOTE Oversampling Results:**
 >
 >![SMOTE_imbalanced_classification](./Resources/SMOTE_imbalanced_classification.png)
@@ -72,7 +78,9 @@ The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`
 >#### Cluster Centroids Undersampling Results
 >
 >**Balance Accuracy Scores**
+>
 >The balance accuracy score is `0.54`
+>
 >**Image showing the Balance Accuracy Scores for the Cluster Centroids Undersampling Results:**
 >
 >![ClusterCentriods_balance_accuracy_score](./Resources/ClusterCentriods_balance_accuracy_score.png)
@@ -85,6 +93,7 @@ The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`
 >
 >**Imbalanced Classification Report**
 >The Precion score is `0.01` and recall scores are highrisk:`0.68` and low risk:`0.41`
+>
 >**Image showing the Imbalanced Classification Report for the Cluster Centroids Undersampling Results:**
 >
 >![ClusterCentroids_imbalanced_classification](./Resources/ClusterCentroids_imbalanced_classification.png)
