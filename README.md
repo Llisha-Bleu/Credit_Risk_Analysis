@@ -44,7 +44,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
-The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`0.59`
+>The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`0.59`
 >
 >**Image showing the Imbalanced Classification Report for the Naive Random Oversampling Results:**
 >
