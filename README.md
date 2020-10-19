@@ -30,6 +30,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >The balance accuracy score is `0.68`
+>
 >**Image showing the Balance Accuracy Scores for the Cluster Centroids Undersampling Results:**
 >
 >![NaiveRandom_balance_accuracy_score](./Resources/NaiveRandom_balance_accuracy_score.png)
