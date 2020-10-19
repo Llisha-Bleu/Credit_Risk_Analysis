@@ -4,17 +4,13 @@ New project on credit risk analysis. Creating and evaluating predictor models.
 ## Project Overview
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, different techniques will need to be employed to train and evaluate models with unbalanced classes. `Imbalanced-learn` and `scikit-learn` libraries will be used to build and evaluate models using resampling.
 
-For this analysis, you’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, you’ll create a set of visualizations to:
-
-The credit card credit dataset will be used from LendingClub, a peer-to-peer lending services company; you’ll oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, you’ll use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, you’ll compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once done, you’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
+The credit card credit dataset will be used from LendingClub, a peer-to-peer lending services company; you’ll oversample the data using the `RandomOverSampler` and `SMOTE` algorithms, and undersample the data using the `ClusterCentroids algorithm`. Then, you’ll use a combinatorial approach of over- and undersampling using the `SMOTEENN algorithm`. Next, you’ll compare two new machine learning models that reduce bias, `BalancedRandomForestClassifier` and `EasyEnsembleClassifier`, to predict credit risk. Once done, you’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk.
 
 This assignment consists of three (3) technical analysis deliverables and a written report. The following will be submitted:
 - Deliverable 1: Use Resampling Models to Predict Credit Risk
-- Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
+- Deliverable 2: Use the `SMOTEENN` Algorithm to Predict Credit Risk
 - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 - Deliverable 4: A Written Report on the Credit Risk Analysis (README.md)
-
-These new visualizations alongside the two previoulsy created will be used for the final presentation and analysis to pitch to investors.
 
 ## Purpose
 The purpose of this project is to  to apply machine learning to solve a real-world challenge: credit card risk.
