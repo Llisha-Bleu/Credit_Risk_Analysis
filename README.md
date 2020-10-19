@@ -174,4 +174,4 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 
 ## Summary
->Based on the results above the recommended model would have to be the `Easy Ensemble AdaBoost Classifier` model as it yield the best results with `0.93` accuracy score followed by the `Balanced Random Forest Classifier` which produced good results with `0.73` accuracy. The remainder, are not good predictors of credit risk as they all yielded an accuracy of `0.01` 
+>Based on the results above the recommended model would have to be the `Easy Ensemble AdaBoost Classifier` model as it yield the best results with `0.93` accuracy score followed by the `Balanced Random Forest Classifier` which produced good results with `0.73` accuracy. Both are good predictoras they yielded Precions of `0.09` and `0.03` respectively. The remainder, are not good predictors of credit risk as they all yielded an Precion of `0.01` as well as accuracy well below `0.70` mark. 
