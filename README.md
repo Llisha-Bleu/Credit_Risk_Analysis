@@ -44,7 +44,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is `0.01` and recall scores are highrisk:`0.76` and low risk:`0.59`
+>The Precion score is high risk:`0.01` and low risk: `1.00`; and recall scores are high risk:`0.76` and low risk:`0.59`
 >
 >**Image showing the Imbalanced Classification Report for the Naive Random Oversampling Results:**
 >
@@ -67,7 +67,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is `0.01` and recall scores are highrisk:`0.63` and low risk:`0.69`
+>The Precion score is high risk: `0.01` and low risk `1.00`;  and recall scores are highrisk:`0.63` and low risk:`0.69`
 >
 >**Image showing the Imbalanced Classification Report for the SMOTE Oversampling Results:**
 >
@@ -92,7 +92,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >![ClusterCentriods_confusion_matrix](./Resources/ClusterCentriods_confusion_matrix.png)
 >
 >**Imbalanced Classification Report**
->The Precion score is `0.01` and recall scores are highrisk:`0.68` and low risk:`0.41`
+>The Precion score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.68` and low risk:`0.41`
 >
 >**Image showing the Imbalanced Classification Report for the Cluster Centroids Undersampling Results:**
 >
@@ -118,7 +118,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is `0.01` and recall scores are highrisk:`0.72` and low risk:`0.57`
+>The Precion score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.72` and low risk:`0.57`
 >
 >**Image showing the Imbalanced Classification Report for the SMOTEENN Sampling Results:**
 >
@@ -142,7 +142,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is `0.03` and recall scores are highrisk:`0.70` and low risk:`0.87`
+>The Precion score is high risk: `0.03` and low risk `1.00`; and recall scores are highrisk:`0.70` and low risk:`0.87`
 >
 >**Image showing the Imbalanced Classification Report for the Balanced Random Forest Classifier Result:**
 >
@@ -166,7 +166,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is `0.09` and recall scores are highrisk:`0.92` and low risk:`0.94`
+>The Precion score is high risk: `0.09` and low risk: `1.00`; and recall scores are highrisk:`0.92` and low risk:`0.94`
 >
 >**Image showing the Imbalanced Classification Report for the Ensemble AdaBoost Classifier Result:**
 >
