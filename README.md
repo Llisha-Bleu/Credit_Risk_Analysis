@@ -26,7 +26,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >
->The balance accuracy score is `0.68`
+>- The balance accuracy score is `0.68`
 >
 >**Image showing the Balance Accuracy Scores for the Cluster Centroids Undersampling Results:**
 >
@@ -40,7 +40,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk:`0.01` and low risk: `1.00`; and recall scores are high risk:`0.76` and low risk:`0.59`
+>- The Precision score is high risk:`0.01` and low risk: `1.00`; and recall scores are high risk:`0.76` and low risk:`0.59`
 >
 >**Image showing the Imbalanced Classification Report for the Naive Random Oversampling Results:**
 >
@@ -49,7 +49,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >#### SMOTE Oversampling Results
 >
 >**Balance Accuracy Scores**
->The balance accuracy score is `0.66`
+>- The balance accuracy score is `0.66`
 >
 >**Image showing the Balance Accuracy Scores for the SMOTE Oversampling Results:**
 >
@@ -63,7 +63,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk: `0.01` and low risk `1.00`;  and recall scores are highrisk:`0.63` and low risk:`0.69`
+>- The Precision score is high risk: `0.01` and low risk `1.00`;  and recall scores are highrisk:`0.63` and low risk:`0.69`
 >
 >**Image showing the Imbalanced Classification Report for the SMOTE Oversampling Results:**
 >
@@ -75,7 +75,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >
->The balance accuracy score is `0.54`
+>- The balance accuracy score is `0.54`
 >
 >**Image showing the Balance Accuracy Scores for the Cluster Centroids Undersampling Results:**
 >
@@ -89,7 +89,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.68` and low risk:`0.41`
+>- The Precision score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.68` and low risk:`0.41`
 >
 >**Image showing the Imbalanced Classification Report for the Cluster Centroids Undersampling Results:**
 >
@@ -101,7 +101,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >
->The balance accuracy score is `0.64`
+>- The balance accuracy score is `0.64`
 >
 >**Image showing the Balance Accuracy Scores for the SMOTEENN Sampling Results:**
 >
@@ -115,7 +115,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.72` and low risk:`0.57`
+>- The Precision score is high risk: `0.01` and low risk `1.00`; and recall scores are highrisk:`0.72` and low risk:`0.57`
 >
 >**Image showing the Imbalanced Classification Report for the SMOTEENN Sampling Results:**
 >
@@ -125,7 +125,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >
->The balance accuracy score is `0.78`
+>- The balance accuracy score is `0.78`
 >
 >**Image showing the Balance Accuracy Scores for the Balanced Random Forest Classifier Result:**
 >
@@ -139,7 +139,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk: `0.03` and low risk `1.00`; and recall scores are highrisk:`0.70` and low risk:`0.87`
+>- The Precision score is high risk: `0.03` and low risk `1.00`; and recall scores are highrisk:`0.70` and low risk:`0.87`
 >
 >**Image showing the Imbalanced Classification Report for the Balanced Random Forest Classifier Result:**
 >
@@ -149,7 +149,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Balance Accuracy Scores**
 >
->The balance accuracy score is `0.93`
+>- The balance accuracy score is `0.93`
 >
 >**Image showing the Balance Accuracy Scores for the Easy Ensemble AdaBoost Classifier Result:**
 >
@@ -163,7 +163,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The precision score is high risk: `0.09` and low risk: `1.00`; and recall scores are highrisk:`0.92` and low risk:`0.94`
+>- The precision score is high risk: `0.09` and low risk: `1.00`; and recall scores are highrisk:`0.92` and low risk:`0.94`
 >
 >**Image showing the Imbalanced Classification Report for the Ensemble AdaBoost Classifier Result:**
 >
