@@ -166,7 +166,7 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 >**Imbalanced Classification Report**
 >
->The Precion score is high risk: `0.09` and low risk: `1.00`; and recall scores are highrisk:`0.92` and low risk:`0.94`
+>The precision score is high risk: `0.09` and low risk: `1.00`; and recall scores are highrisk:`0.92` and low risk:`0.94`
 >
 >**Image showing the Imbalanced Classification Report for the Ensemble AdaBoost Classifier Result:**
 >
@@ -174,4 +174,4 @@ The purpose of this project is to  to apply machine learning to solve a real-wor
 >
 
 ## Summary
->Based on the results above the recommended model would have to be the `Easy Ensemble AdaBoost Classifier` model as it yield the best results with `0.93` accuracy score followed by the `Balanced Random Forest Classifier` which produced good results with `0.73` accuracy. Both are good predictoras they yielded Precions of `0.09` and `0.03` respectively. The remainder, are not good predictors of credit risk as they all yielded an Precion of `0.01` as well as accuracy well below `0.70` mark. 
+>Based on the results above the recommended model would have to be the `Easy Ensemble AdaBoost Classifier` model as it yield the best results with `0.93` accuracy score followed by the `Balanced Random Forest Classifier` which produced good results with `0.73` accuracy. Both are good predictoras they yielded precision scores of `0.09` and `0.03` respectively. The remainder, are not good predictors of credit risk as they all yielded a precision score of `0.01` as well as accuracy well below `0.70` mark. 
